@@ -18,7 +18,7 @@ BetterBan is a Discord bot focused on improving the banning experience by provid
 2. Grant the bot the necessary permissions.
 3. Once the bot is in your server, set up the log channel using the `!set_log_channel` command followed by the channel mention where you want to log events. For example: `!set_log_channel #bot-log`
 4. Use `/help` to see all the available commands.
-
+5. if you're in the mood, [vote](https://top.gg/bot/975814318199287898) for the bot!
 ## Commands
 
 - `/help` - Shows a list of available commands and their descriptions.
